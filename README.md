@@ -1,5 +1,5 @@
 # css-tricks
-# Flexbox notes
+# :pencil: Flexbox notes :triangular_ruler:
 
 + **justify-content**`[flex-start, flex-end, center, space-between, space-around]`: aligns the flex elements along the x-axis
 
